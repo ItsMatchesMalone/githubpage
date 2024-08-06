@@ -1,13 +1,12 @@
 *{
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    
+    font-weight: 1200; 
+    width: 400px;
   }
 
   body{
-    width: 400px;
     margin: 0 auto; 
-     
+    font-size: xx-large;
   } 
 
   html{
@@ -19,10 +18,7 @@
 h1{
     color: palevioletred;
     font-weight: bold;
-    margin: 0;
-   
-    
-    
+    margin: 0 auto; 
 }
 #mejor{
     color: rgb(208, 66, 94);
