@@ -6,3 +6,7 @@ else{
     alert("mala eleccion");
 }
 
+function alertarpeluverse(){
+    alert('SÍ, ESTÁS EN PELUVERSE');
+}
+document.querySelector('h1').onclick = alertarpeluverse;
