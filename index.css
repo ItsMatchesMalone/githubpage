@@ -1,0 +1,33 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    
+  }
+
+  body{
+    width: 400px;
+    margin: 0 auto; 
+     
+  } 
+
+  html{
+    background-color: rgb(234, 210, 226);
+    margin: 60px auto;
+  }
+
+
+h1{
+    color: palevioletred;
+    font-weight: bold;
+    margin: 0;
+   
+    
+    
+}
+#mejor{
+    color: rgb(208, 66, 94);
+    font-style: italic;
+}
+.cl{
+    color: rgb(220, 132, 170);
+}
