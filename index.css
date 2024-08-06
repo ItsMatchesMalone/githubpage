@@ -1,12 +1,16 @@
 *{
     font-family: "Roboto", sans-serif;
-    font-weight: 1200; 
+    font-weight: 1200;
+    
     width: 400px;
+    
   }
 
   body{
+    
     margin: 0 auto; 
     font-size: xx-large;
+     
   } 
 
   html{
@@ -18,8 +22,19 @@
 h1{
     color: palevioletred;
     font-weight: bold;
-    margin: 0 auto; 
+    margin: 0 auto;
 }
+
+img{
+margin:0 auto;
+display: block;
+border-radius: 50%;
+width: 300px;
+height: 300px;
+object-fit: cover;
+
+}
+
 #mejor{
     color: rgb(208, 66, 94);
     font-style: italic;
