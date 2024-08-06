@@ -20,10 +20,10 @@ document.querySelector('h2').onclick = alertarmejor;
 let miimagen = document.querySelector('img');
 miimagen.onclick=function(){
     let src = miimagen.getAttribute('src');
-    if(src === 'fotosweb/angelodemoni.jpg' ){
-        miimagen.setAttribute('src','fotosweb/demoniangel.jpg');
+    if(src === 'angelodemoni.jpg' ){
+        miimagen.setAttribute('src','demoniangel.jpg');
     }
     else{
-        miimagen.setAttribute('src','fotosweb/angelodemoni.jpg');
+        miimagen.setAttribute('src','angelodemoni.jpg');
     }
 }
