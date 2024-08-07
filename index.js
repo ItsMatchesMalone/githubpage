@@ -8,7 +8,7 @@ else{
 }*/
 
 function alertarpeluverse(){
-    alert('SÍ, ESTÁS EN LOW-PASS');
+    alert('SÍ, ESTÁS EN LOW-PASS™');
 }
 document.querySelector('h1').onclick = alertarpeluverse;
 
