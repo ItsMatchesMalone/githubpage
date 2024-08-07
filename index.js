@@ -1,14 +1,14 @@
 
-let helado ="chocolate";
+/*let helado ="chocolate";
 if(helado=== "chocolate"){
     alert("Bienvenido a PELUVERSE");
 }
 else{
     alert("mala eleccion");
-}
+}*/
 
 function alertarpeluverse(){
-    alert('SÍ, ESTÁS EN PELUVERSE');
+    alert('SÍ, ESTÁS EN LOW-PASS');
 }
 document.querySelector('h1').onclick = alertarpeluverse;
 
@@ -20,7 +20,7 @@ document.querySelector('h2').onclick = alertarmejor;
 let miimagen = document.querySelector('img');
 miimagen.onclick=function(){
     let src = miimagen.getAttribute('src');
-    if(src === 'angelodemoni.jpg' ){
+    if(src === 'angelodemoni.jpg'){
         miimagen.setAttribute('src','demoniangel.jpg');
     }
     else{
