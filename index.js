@@ -27,3 +27,7 @@ miimagen.onclick=function(){
         miimagen.setAttribute('src','angelodemoni.jpg');
     }
 }
+
+
+
+
